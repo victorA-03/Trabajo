@@ -33,7 +33,7 @@
         <p>Password: <br>
             <input type="password" name="Contraseña"></p>
         <p class="center"><button type="submit" class="btn aqua-gradient">Iniciar sesion</button>
-        <p class="center"><button href="#" class="btn aqua-gradient">Regístrarse</button>
+        <p class="center"><button type="button" href="#" class="btn aqua-gradient">Regístrarse</button>
       
     </form>
     
