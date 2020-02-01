@@ -27,13 +27,13 @@
                 echo $errorLogin;
             }
         ?>
-        <h2>Iniciar sesión</h2>
-        <p>Nombre de usuario: <br>
+        <h2>Sing Up</h2>
+        <p>Username: <br>
             <input type="text" name="Usuario"></p>
         <p>Password: <br>
             <input type="password" name="Contraseña"></p>
-        <p class="center"><button type="submit" class="btn aqua-gradient">Iniciar sesion</button>
-        <p class="center"><button type="button" href="#" class="btn aqua-gradient">Regístrarse</button>
+        <p class="center"><button type="submit" class="btn aqua-gradient">Log in</button>
+        <p class="center"><a type="button" href="../login/vistas/registry.php" class="btn aqua-gradient">Create an Account</a>
       
     </form>
     
@@ -49,3 +49,4 @@
 </body>
 
 </html>
+
